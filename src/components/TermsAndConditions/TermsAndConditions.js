@@ -30,9 +30,7 @@ const TermsAndConditions = () => {
             </p>
           </li>
           <li>
-            <h5>
-            Use of the Website
-            </h5>
+            <h5>Use of the Website</h5>
             <ol>
               <li> You must be at least [age] years old to use the Website.</li>
               <li>
@@ -99,7 +97,6 @@ const TermsAndConditions = () => {
             </p>
           </li>
         </ul>
-        <h3></h3>
       </div>
     </section>
   );
